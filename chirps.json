@@ -1,1 +1,19 @@
-[object Object],[object Object],[object Object],[object Object],[object Object]
+[
+  { "author": "Shoresy", "body": "You skate like a newborn giraffe!" },
+  {
+    "author": "Jonesy",
+    "body": "You have bricks for hands, did you get them specially made by a construction worker?"
+  },
+  {
+    "author": "Shoresy",
+    "body": "Oh, please. I can dangle you with my eyes closed."
+  },
+  {
+    "author": "Jonesy",
+    "body": "Yeah, do that, I'll check you into next week."
+  },
+  {
+    "author": "Shoresy",
+    "body": "Hit me?? You can't even hit the goalie in the chest. "
+  }
+]
